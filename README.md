@@ -8,9 +8,7 @@ A responsive countdown timer application built using HTML, CSS, and JavaScript. 
 - Start and stop the countdown.
 - Reset the timer to default values.
 
-## Demo
 
-![Countdown Timer Screenshot](image.png)
 
 ## Getting Started
 
